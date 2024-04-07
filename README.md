@@ -1,4 +1,4 @@
-**Part 1: Explore the Data**
+**Part 1: Explore the Data**  
 In this part, you will import the data and use Pandas to learn more about the dataset.  
 
 Import the data from the CSV file.  
